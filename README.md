@@ -1,5 +1,8 @@
 # RoomieSettler
 
+This repository is public so instructors and TAs can view its contents. The README file includes our team name, all team members, and the project overview. Every team member has created at least one commit under their individual GitHub account.
+In the README, we documented our planned technology stack for implementing the expense-splitting system and one open question we have regarding implementation.
+
 ## Team Information
 
 **Team Name:** BillBuddies
